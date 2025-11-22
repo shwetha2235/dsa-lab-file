@@ -3,7 +3,8 @@ using namespace std;
  int main() { 
 int M, N;                                                                               //number of rows, columns
 int i, j;                                                                                  // Element position
- int base, size;                                                                   // Base address, size of each element cout << "Enter number of rows (M): ";
+ int base, size;                                                                   // Base address, size of each element 
+ cout << "Enter number of rows (M): ";
  cin >> M; 
 cout << "Enter number of columns (N): ";
  cin >> N; 
